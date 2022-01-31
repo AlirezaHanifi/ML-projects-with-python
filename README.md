@@ -5,4 +5,4 @@ My projects from [Machine Learning with Python](https://maktabkhooneh.org/course
 3. Customer segmentation (A clustering project).
 4. Movie recommendation system (A recommendation system project).
 
-[My Certification](https://github.com/AlirezaHanifi/ML-projects-with-python/blob/6ab73eddea6061c923f82b6cc1d64dcc0cd094bf/My%20Certification.png)
+![My Certification](https://github.com/AlirezaHanifi/ML-projects-with-python/blob/6ab73eddea6061c923f82b6cc1d64dcc0cd094bf/My%20Certification.png)
